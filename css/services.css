@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: url(1.jpg) no-repeat;
+    background-size: cover;
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url("1.jpg");
+  }
+  div.b{
+      font-size:55px;
+      color:white;
+      padding:50px 100px;
+      }
+      .button {
+        border: none;          
+        color: black;                              
+        padding:25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 250px 43px;
+        cursor: pointer;
+        margin-right:100px;
+        margin-left: 112px;
+      }
+      .button1 {background-color: grey;}   
+      .button2 {background-color: grey;}
+      .button3 {background-color: grey;} 
+      .button4 {background-color: grey;} 
+      .button5 {background-color: grey;}  
+   

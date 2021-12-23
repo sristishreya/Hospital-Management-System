@@ -1,0 +1,78 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: url(1.jpg) no-repeat;
+    background-size: cover;
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url("1.jpg");
+}
+.login-box{
+    width: 1000px;
+    height: 800px;
+    background: rgba(0,0,0,0.6);
+    margin: auto;
+    padding: 10px 0px 10px 0px;
+    color: white;
+    text-align:center;
+    box-shadow: 0 0 20px 2px rgba(0,0,0,0.5);
+    border-radius: 15px 15px 0px 0px;;
+    }
+.main{
+    background-color: rgba(0,0,0,0.5);
+    width:800px;
+    margin:auto;
+}
+form{
+    padding:10px;
+}
+    h1{
+        text-align: center;
+        margin-bottom: 40px;
+        color:white;
+        }
+       
+            .input-box{
+            margin: 31px auto;
+            width: 80%;
+            border-bottom: 1px solid white;
+            padding-top: 10px;
+            padding-bottom:5px;
+            }
+            .input-box input{
+            width: 90%;
+            border: none;
+            outline: none;
+            background:transparent;
+            color: white;
+            }
+            ::placeholder{
+            color: #ccc;
+            }
+            .option{
+                position: relative;
+                left:20px;
+                top: -2px;
+                line-height: 90px;
+                width:332px;
+                height: 40px;
+                border-radius: 6px;
+                padding: 10px 38px;
+                font-size: 16px;
+                color: #555;
+                outline:none;
+                overflow: hidden;
+            }
+            button{
+                background-color: black;
+                display: block;
+                margin: 20px 10px 10px 310px;
+                text-align: center;
+                border-radius: 12px;
+                border: 2px solid #366473;
+                padding: 20px 110px;
+                outline:none;
+                color:white;
+                cursor:pointer;
+                transition: 0.25px;
+
+            }
